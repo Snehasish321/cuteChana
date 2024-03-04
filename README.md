@@ -1,2 +1,3 @@
 # cuteChana
 This is my first repository .
+The author of this file is cuteChana ...
